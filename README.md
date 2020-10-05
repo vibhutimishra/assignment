@@ -1,14 +1,14 @@
 # assignment
 docker-practice
-Commands
-get the IP of the machine-
+# Commands
+-get the IP of the machine-
 -- docker-machine ip
 
-build the image
+-build the image
 -- docker build -t assignment .
 
-run the conatiner
+-run the conatiner
 --  docker run --rm -it -p 8082:8082 assignment
 
-go to (machine-ip)/8082
+-go to (machine-ip)/8082
 Hello world printed
