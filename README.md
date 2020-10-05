@@ -10,5 +10,5 @@ docker-practice
 -run the conatiner
 **docker run --rm -it -p 8082:8082 assignment**
 
--go to (machine-ip)/8082
+-go to (machine-ip):8082
 Hello world printed
